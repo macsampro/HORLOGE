@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+p{
+    width: 80vh;
+    height: 40vh;
+    font-size: 5rem;
+}
+
+.interval{
+    color: red;
+    font-weight: 900;
+}
+
+div{
+    background-color: grey;
+    width: 300px;
+    height: 280px;
+    border-radius: 100%;
+    border: 2px solid black;
+    box-shadow: ;
+    margin-top: 300px;
+}
